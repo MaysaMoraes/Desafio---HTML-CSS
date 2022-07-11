@@ -13,7 +13,6 @@
     display: flex;
     justify-content: center;
 }
-
 main{
     margin-top: 35px;
 }
@@ -60,6 +59,6 @@ input#button{
     background-color: var(--cor_padrao);
     color: white;
     border: 1px solid var(--cor_padrao) ;
-    border-bottom: 3px solid #3D5AFE;
+    box-shadow: 1px 3px 2px #3D5AFE;
     margin: 5px 0 15px 0;
 }
